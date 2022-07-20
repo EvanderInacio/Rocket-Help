@@ -84,7 +84,7 @@ export function Home() {
               <Text color="gray.300" fontSize="xl" mt={6} textAlign="center">
                 Você ainda não possui {'\n'}
                 solicitações {statusSelected === 'open' ? 'em andamento' : 'finalizadas'}
-              </Text>
+              </Text> 
             </Center>
           )}
         />
