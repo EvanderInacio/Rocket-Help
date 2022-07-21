@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useNavigation } from '@react-navigation/native'
 import { GenderNonbinary, SignOut } from 'phosphor-react-native'
 import { DesktopTower } from 'phosphor-react-native'
 import {
@@ -25,7 +26,12 @@ export function Home() {
   const [orders, setOrders] = useState<OrderProps[]>([ 
   ])
 
+  const navigation = useNavigation()
   const { colors } = useTheme()
+
+  function handleNewOrder(){
+    navigation.navigate('new');
+  }
 
   return (
     <VStack flex={1} pb={6} bg="gray.700">
@@ -89,7 +95,7 @@ export function Home() {
           )}
         />
 
-        <Button title="Nova solicitação" />
+        <Button title="Nova solicitação"  onPress={handleNewOrder}/>
       </VStack>
     </VStack>
   )
