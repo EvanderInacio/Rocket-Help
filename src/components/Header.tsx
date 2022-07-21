@@ -35,4 +35,4 @@ export function Header( {title, ...rest}: Props ) {
 
     </HStack>
   );
-}
+} 
