@@ -2,22 +2,31 @@
    
 </h1>
 
+## 🙋‍♂️ Tela de Login
 
-<img width="400px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/signin.png" />
+<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/signin.png" />
+
+<br>
+
+## 👨🏼‍🔧 Solicitações em andamento
+
+<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/andamento.png" />
+
+## 🔧 Detalhes em andamento
 
 <p align="left">
-<img width="400px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-1.png" />
+<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-1.png" />
 
-<img width="400px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
+<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
 </p>
 
 <br>
 
-## 📝 Descrição 
+## ✔️ Solicitações finalizadas
+<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
 
- 
-
-- site final: []() 
+## 🧑🏻‍💻 Detalhes finalizadas
+<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
 
 <br>
 
@@ -25,15 +34,17 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-
-- TypeScript
-
+- React Native
+- Typescript
+- Expo Bare Workflow
+- Native Base
+- Firebase (Authentication e Firestore)
 
 
 ## 📚 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
-
+- [Phosphor Icons](https://phosphoricons.com/)
 
 
 ## 🔗 Links
