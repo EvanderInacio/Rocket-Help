@@ -1,14 +1,14 @@
 <h1 align="center">
-  DsMeta 📊
+   
 </h1>
 
 
-<img width="200px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/signin.png" />
+<img src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/signin.png" />
 
 <p align="left">
-<img width="200px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-1.png" />
+<img  src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-1.png" />
 
-<img width="200px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
+<img  src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
 </p>
 
 <br>
