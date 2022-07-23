@@ -1,6 +1,12 @@
 <h1 align="center">
-   
+   Rocket Help 🛠
 </h1>
+
+## 📝 Descrição
+
+App de solicitação de manutenção de equipamentos interno de uma empresa.
+
+<br>
 
 ## 🙋‍♂️ Tela de Login
 
@@ -26,7 +32,7 @@
 <img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
 
 ## 🧑🏻‍💻 Detalhes finalizadas
-<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/detalhe-andamento-2.png" />
+<img width="300px;" src="https://raw.githubusercontent.com/EvanderInacio/Rocket-Help/main/src/assets/imgs-readme/finalizado-detalhe.png" />
 
 <br>
 
